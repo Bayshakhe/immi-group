@@ -1,0 +1,17 @@
+{
+  "name": "immi-group",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "daisyui": "^3.1.7"
+  },
+  "dependencies": {
+    "swiper": "^9.4.1"
+  }
+}

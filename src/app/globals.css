@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-yellow{
+  @apply btn bg-[#fbea07] border-none rounded-none
+}
