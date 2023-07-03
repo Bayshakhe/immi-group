@@ -5,3 +5,6 @@
 .btn-yellow{
   @apply btn bg-[#fbea07] border-none rounded-none
 }
+.active{
+  @apply text-[#fbea07] font-semibold
+}
