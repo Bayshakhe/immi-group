@@ -16,8 +16,8 @@ const About = () => {
           alt="About our Service"
         />
       </div>
-      <div>
-        <p className="uppercase text-xs mb-3">training & certification</p>
+      <div className="px-4 lg:w-[75%]">
+        <p className="uppercase text-xs mb-3 border-l-4 border-[#fbea07] pl-1">About ImmiGroup</p>
         <h2 className="capitalize text-3xl lg:text-5xl font-semibold">
           Providing the Best Visa <br /> Services to Clients
         </h2>

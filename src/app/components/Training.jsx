@@ -10,7 +10,7 @@ const Training = () => {
     <div className="h-[1620px] lg:h-[700px]">
       <div className="relative h-full lg:px-20">
         <div className="w-full lg:w-[1350px] mx-auto  bg-gradient-to-b from-gray-300 via-[#f4f3f3] to-white absolute -top-16 left-0 right-0 p-5 lg:p-10 ">
-          <p className="uppercase text-xs mb-3">training & certification</p>
+          <p className="uppercase text-xs mb-3 border-l-4 pl-1 border-[#fbea07]">training & certification</p>
           <h2 className="capitalize text-3xl lg:text-5xl font-semibold">
             get the immigration <br /> training you Deserve
           </h2>

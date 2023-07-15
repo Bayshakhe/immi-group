@@ -4,22 +4,22 @@ import Link from "next/link";
 const NavlinkLists = () => {
   return (
     <>
-      <Link activeClass="active" href="/">
+      <Link className="active" href="/">
         Home
       </Link>
-      <Link activeClass="active" href="/">
+      <Link className="active" href="/visa">
         Visa
       </Link>
-      <Link activeClass="active" href="/">
+      <Link className="active" href="/coaching">
         Coaching
       </Link>
-      <Link activeClass="active" href="/">
+      <Link className="active" href="/countries">
         Countries
       </Link>
-      <Link activeClass="active" href="/">
+      <Link className="active" href="/blog">
         Blog
       </Link>
-      <Link activeClass="active" href="/">
+      <Link className="active" href="/contact">
         Contact
       </Link>
     </>
